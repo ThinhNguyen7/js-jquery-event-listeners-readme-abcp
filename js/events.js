@@ -6,6 +6,6 @@ $(document).ready(function(){
 
 });
 
-$(p).click(function getIt(){
+$("p").click(function getIt(){
   return alert (`Hey!`);
 })
